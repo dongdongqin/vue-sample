@@ -1,4 +1,4 @@
-# vue-weather
+# vue small project for my vue testing
 
 > A Vue.js project
 
